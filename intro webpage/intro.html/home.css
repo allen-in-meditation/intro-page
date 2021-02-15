@@ -1,0 +1,62 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+/* styles the image border*/
+img {
+  border: 5px solid goldenrod;
+}
+/*styles the image some more so it can be centerd*/
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*styles the h2 and h3 headings*/
+.header {
+  background-color: gold;
+  font-family: fantasy;
+  text-align: center;
+  border: 3px solid goldenrod;
+}
+
+/*styles the h1 heading*/
+.first{
+  background-color: goldenrod;
+  font-family: fantasy;
+  text-align: center;
+  border: 3px solid gold;
+}
+
+/*styles the fun facts list*/
+.facts {
+  background-color: gold;
+  font-family: fantasy;
+  text-align: center;
+  border: 3px solid goldenrod;
+}
+
+/* styles the paragraphs of h1 and fun facts */
+.origin {
+  text-align: center;
+  font-family: cursive;
+  font-size: 10;
+}
+
+/*styles the paragraphs*/
+.center {
+  text-align: center;
+  list-style-position: inside;
+  font-family: cursive
+}
+
+/*styles the footer and its list*/
+footer ul {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  height: auto;
+  font-family: cursive;
+}
